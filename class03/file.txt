@@ -1,0 +1,7 @@
+jay		25	cashier		25000
+Ravi		30	cashuer		30000
+Sanjeev		40	Accountant	50000
+Suresh		55	Accountant	75000
+Yash		60	Manager		120000
+Ravikant	45	Manager		60000
+
